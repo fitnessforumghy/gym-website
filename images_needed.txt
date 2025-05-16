@@ -1,0 +1,9 @@
+This website requires the following images:
+
+1. hero-bg.jpg - A high-quality image for the hero section background
+2. about.jpg - An image for the about section
+3. class-1.jpg, class-2.jpg, class-3.jpg, class-4.jpg - Images for gym classes
+4. trainer-1.jpg, trainer-2.jpg, trainer-3.jpg - Images of trainers
+5. testimonial-1.jpg, testimonial-2.jpg, testimonial-3.jpg - Images for testimonials
+
+Please download appropriate images from stock photo websites like Unsplash, Pexels, or Pixabay and place them in the root directory alongside the HTML, CSS, and JavaScript files. 
